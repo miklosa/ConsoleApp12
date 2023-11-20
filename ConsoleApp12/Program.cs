@@ -2,15 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 
+// vissza
+// vissza2
 
-// Add a comment
-
-
-///fsdf sdf sdf sdf sdfds
-
-// add new comment
-
-
-// asdasd 
-
-// afsdf
