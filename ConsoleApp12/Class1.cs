@@ -1,6 +1,9 @@
 ﻿namespace ConsoleApp12;
 
-internal class Class1
+namespace ConsoleApp12
 {
-    // #TODO RP
+    internal class Class1
+    {
+        public int Number { get; set; }
+    }
 }
