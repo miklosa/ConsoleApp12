@@ -8,6 +8,6 @@ namespace ConsoleApp12
 {
     internal class Class2
     {
-        // #TODO Istvan
+        public int Number { get; set; }
     }
 }
