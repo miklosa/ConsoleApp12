@@ -9,5 +9,6 @@ namespace ConsoleApp12
     internal class Class1
     {
         // Change 1
+        // Change 2
     }
 }
