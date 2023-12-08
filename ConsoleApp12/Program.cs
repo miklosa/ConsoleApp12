@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-//35
 
+// squash 3
 
 
 //change 1 in my FB
@@ -10,6 +10,6 @@ Console.WriteLine("Hello, World!");
 // release 16.030
 
 
-// Change 3
+// Change to 040
 
-// NEW 3
+// NEW to 040

@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp12
 {
-    internal class Class1
+    internal class Class3
     {
-        // Change 1
-        // Change 2
     }
 }
