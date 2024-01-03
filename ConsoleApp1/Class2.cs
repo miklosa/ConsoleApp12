@@ -9,5 +9,7 @@ namespace ConsoleApp1
     internal class Class2
     {
         // 2nd file
+
+        // PR in VS
     }
 }
